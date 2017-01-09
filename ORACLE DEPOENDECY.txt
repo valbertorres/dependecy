@@ -1,0 +1,14 @@
+	<!-- https://mvnrepository.com/artifact/com.oracle/ojdbc14 -->
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>ojdbc14</artifactId>
+			<version>10.2.0.3.0</version>
+		</dependency>
+
+-----------------------------------------------------------
+echo "# dependecy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/valbertorres/dependecy.git
+git push -u origin master
