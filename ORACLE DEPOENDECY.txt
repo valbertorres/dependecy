@@ -9,6 +9,6 @@
 echo "# dependecy" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "09/01/2017"
 git remote add origin https://github.com/valbertorres/dependecy.git
 git push -u origin master
